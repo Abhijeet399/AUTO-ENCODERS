@@ -10,3 +10,6 @@ Some types of Auto-Encoders
       ![image](https://user-images.githubusercontent.com/31439714/50914958-c8823000-145d-11e9-9867-b7bf8449d2cd.png)
    
    4. Convolution Auto-Encoder
+      
+      ![image](https://user-images.githubusercontent.com/31439714/50988372-6e9f6a00-1532-11e9-9dcd-3daa19c48775.png)
+
