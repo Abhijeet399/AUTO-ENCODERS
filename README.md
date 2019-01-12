@@ -12,4 +12,5 @@ Some types of Auto-Encoders
    4. Convolution Auto-Encoder
       
       ![image](https://user-images.githubusercontent.com/31439714/50988372-6e9f6a00-1532-11e9-9dcd-3daa19c48775.png)
-
+   5. Stacked autoencoder
+      ![image](https://user-images.githubusercontent.com/31439714/51075823-ef876e80-16b6-11e9-852d-c0382a0f1de3.png)
