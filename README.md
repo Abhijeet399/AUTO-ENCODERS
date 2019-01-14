@@ -1,6 +1,6 @@
 # AUTO-ENCODERS
 
-Autoencoders are feed-forward, non-recurrent neural networks, which learn by
+#Autoencoders are feed-forward, non-recurrent neural networks, which learn by
 unsupervised learning. They have an inherent capability to learn a compact representation
 of data. They are at the centre of deep belief networks and find applications in image
 reconstruction, clustering, machine translation, and much more.
