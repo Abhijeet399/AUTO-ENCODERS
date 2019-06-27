@@ -5,7 +5,7 @@ unsupervised learning. They have an inherent capability to learn a compact repre
 of data. They are at the centre of deep belief networks and find applications in image
 reconstruction, clustering, machine translation, and much more.
 
-Some types of Auto-Encoders
+Some types of Auto-Encoders are - 
    1. Vanilla Auto-Encoders
       ![image](https://user-images.githubusercontent.com/31439714/50849725-c8baf680-139d-11e9-9511-968d2ce727f5.png)
    2. Sparse Auto-Encoders   
